@@ -8,5 +8,10 @@ header{
   border-bottom: solid 2px black;/*borda inferior solida de px preta*/
  padding: 20px;/*espaçamento interno*/
  font-size: 32px; ;/*tamanho da fonte*/
+color: rgba(0, 0, 255, 0.774);/*cor da fonte*/
+}     
 
-}               
+section{
+background-color: aquamarine;
+
+}
